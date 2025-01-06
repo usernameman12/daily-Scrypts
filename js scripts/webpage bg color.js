@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
     const button = document.createElement("button");
     button.textContent = "Change Background Color";
